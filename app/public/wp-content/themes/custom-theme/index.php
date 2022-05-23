@@ -56,7 +56,7 @@
           <div class="event-summary">
             <a class="event-summary__date event-summary__date--beige t-center" href="#">
               <span class="event-summary__month">Feb</span>
-              <span class="event-summary__day">04</span>
+              <span class="event-summary__day">04</span>c
             </a>
             <div class="event-summary__content">
               <h5 class="event-summary__title headline headline--tiny"><a href="#">Professors in the National Spotlight</a></h5>
@@ -84,7 +84,7 @@
           <div class="hero-slider__slide" style="background-image: url(<?php echo get_theme_file_uri('/images/apples.jpg') ?>);">
             <div class="hero-slider__interior container">
               <div class="hero-slider__overlay">
-                <h2 class="headline headline--medium t-center">An Apple a Day</h2>
+                <h2 class="headline headline--medium t-center">An Apple a Day 2222</h2>
                 <p class="t-center">Our dentistry program recommends eating apples.</p>
                 <p class="t-center no-margin"><a href="#" class="btn btn--blue">Learn more</a></p>
               </div>
